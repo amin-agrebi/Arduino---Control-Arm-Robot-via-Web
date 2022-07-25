@@ -104,7 +104,7 @@ _**Simplify**_
 Source code inlude two files:
 
 -   **_RobotArmWeb.ino_**: Arduino code
--   **_Remote_arm.php_**: Web app code, which is uploaded to PHPoC WiFi Shield or PHPoC Shield. (See instruction in [this article](https://www.hackster.io/phpoc_man/arduino-dynamic-web-control-8da805).)
+-   **_Remote_arm.php_**: Web app code, which is uploaded to PHPoC WiFi Shield or PHPoC Shield. 
 
 You also need to upload the image file flywheel.png to PHPoC Shield.
 
